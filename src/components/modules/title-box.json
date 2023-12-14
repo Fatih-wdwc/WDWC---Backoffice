@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_modules_title_boxes",
+  "info": {
+    "displayName": "Title box",
+    "icon": "underline"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
